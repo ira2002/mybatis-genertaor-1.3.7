@@ -1,7 +1,7 @@
 # mybatis-genertaor-1.3.7
 Mybatis逆向工程生成代码
 <br>
-<b>使用说明:</b>
+<h4>使用说明:</h4>
 <br>
 1、config----_Ibator_Run_Test_v1_3_7.java； 修改main函数中加载的配置文件， 修下面的run方法中的myBatisGenerator.generate（null）部分，
 <br>
