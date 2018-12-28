@@ -2,7 +2,7 @@
 Mybatis逆向工程生成代码
 <br>
 <h4>使用说明:</h4>
-<br>
+
 1、config----_Ibator_Run_Test_v1_3_7.java； 修改main函数中加载的配置文件， 修下面的run方法中的myBatisGenerator.generate（null）部分，
 <br>
 2、文件配置参考config/myConfig.xml；注意：配置中生成的代码存放位置要填绝对路径。建议另起一个配置文件。
